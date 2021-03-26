@@ -1,6 +1,7 @@
 # tugas_teori
 
-A new Flutter project.
+Tugas teori Flutter.
+Terima kasih buat yang sudah follow
 
 ## Getting Started
 
